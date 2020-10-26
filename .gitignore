@@ -1,0 +1,15 @@
+data
+.idea
+.env
+*.pyc
+__pycache__
+/dist
+dist
+/build
+build
+*~
+.pytest_cache
+.DS_Store
+*.so
+*.o
+out
